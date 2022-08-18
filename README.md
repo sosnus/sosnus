@@ -1,4 +1,6 @@
-### Hi there 👋
+## Stanisław Puławski
+### [Twitter](https://twitter.com/stapulawski)
+### [LinkedIn](https://www.linkedin.com/in/spulawski/)
 
 <!--
 **sosnus/sosnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
