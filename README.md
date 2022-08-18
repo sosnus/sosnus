@@ -1,6 +1,6 @@
 ## Stanisław Puławski
-### [Twitter](https://twitter.com/stapulawski)
-### [LinkedIn](https://www.linkedin.com/in/spulawski/)
+### [Twitter @StaPulawski](https://twitter.com/stapulawski)
+### [LinkedIn /spulawski](https://www.linkedin.com/in/spulawski/)
 
 <!--
 **sosnus/sosnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
