@@ -2,6 +2,7 @@
 ### [Twitter @StaPulawski](https://twitter.com/stapulawski)
 ### [LinkedIn /spulawski](https://www.linkedin.com/in/spulawski/)
 <iframe src="http://srv12.mikr.us:40157/d-solo/4EV3LRFVk/airwits?orgId=1&from=1669802001606&to=1669812801606&panelId=20" width="450" height="200" frameborder="0"></iframe>
+<iframe width=“800” height=“600" src=“https://embed.tago.io?widget=6391ee1555190e0028988e5f&dashboard=6391db167e27840020610be9&token=2a490158-4aa8-4202-b691-6bd664147741” frameborder=“0" allowfullscreen />
 <!--
 **sosnus/sosnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
